@@ -8,7 +8,8 @@ int main()
     std::cout << "Hello Git!" << std::endl;
     std::cout << "Hello First Repo!"  << std::endl;
 	std::cout << "Test Local New Branch." << std::endl;
-	std::cout << "Test commit" << std:: endl;
+	std::cout << "Developing: test branch" << std:: endl;
+	
 	
     return 0;
 }
