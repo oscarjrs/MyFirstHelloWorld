@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello First Repo!"  << std::endl;
 	std::cout << "Test Local New Branch." << std::endl;
 	std::cout << "Developing: test branch" << std:: endl;
+	std::cout << "More learning" << std:: endl;
 	
 	
     return 0;
